@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Page Example</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <section class="box">
+            <div class="section-title">Chicken</div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula odio eu magna luctus, id tempor leo pharetra.</p>
+        </section>
+        <section class="box">
+            <div class="section-title">Beef</div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula odio eu magna luctus, id tempor leo pharetra.</p>
+        </section>
+        <section class="box">
+            <div class="section-title">Sushi</div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula odio eu magna luctus, id tempor leo pharetra.</p>
+        </section>
+    </div>
+</body>
+</html>
